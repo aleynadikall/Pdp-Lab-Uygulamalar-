@@ -1,0 +1,14 @@
+- C dilinde karakter tek bir byte ile ifade edilir. Bir byte 8 bit olduğu için en fazla 2^8 (256) karakter ifade edilebilir. Bunlar ASCII kodu olarak da bilinirler.
+- Fakat Java'da Unicode kullanılmaktadır. Bir karakter için 2 byte ayrılır. Bu da 2^16 (65536) karakter yazılabilir anlamına gelir. Böylelikle Latin harflerinin 
+dışında birçok farklı karakter yapıları da sığdırabilmektedir.
+- C ve Java'da \ karakteri çıkış karakteri olarak kullanılır.
+\n Yeni satır
+\b Bir karakter geri
+\t Tab
+\' Tek tırnak koymak için
+\" Çift tırnak koymak için
+
+- C'de olup Java'da olmayanlar:
+\a Ses çıkarır
+\? Soru işareti
+\v Dikey tab
