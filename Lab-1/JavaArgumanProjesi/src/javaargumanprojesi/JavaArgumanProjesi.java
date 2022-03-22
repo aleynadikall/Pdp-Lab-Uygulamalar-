@@ -22,11 +22,12 @@ public class JavaArgumanProjesi {
         System.out.println(args[2]);
         
         /*
-            Yukaridaki ifadelerin ciktisini gorebilmek icin menudeki Run sekmesine
-            ardindan Set Project Configuration diyip Customize'a tikliyoruz. Cikan
-            ekranda Arguments kismina diledigimiz cumleyi yaziyoruz. Cumledeki 
-            parametlerin (kelimeler) arasinda birer bosluk birakiyoruz. Her kelime
-            bir indekse denk gelecek sekilde ekrana yazdirilmis oluyor.
+            Java'da netbeans ortaminda komut satiri parametresi girebilmek icin 
+            menudeki Run sekmesine ardindan Set Project Configuration diyip 
+            Customize'a tikliyoruz. Cikan ekranda Arguments kismina diledigimiz 
+            cumleyi yaziyoruz. Cumledeki parametlerin (kelimeler) arasinda birer
+            bosluk birakiyoruz. Her kelime bir indekse denk gelecek sekilde ekrana
+            yazdirilmis oluyor.
         */
 
     }
