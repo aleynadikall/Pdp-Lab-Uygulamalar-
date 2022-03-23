@@ -1,4 +1,6 @@
 /*
+	Java'da boolean olarak tanimlanan dogru yanlis veri turu bellekte 1 bit yer kaplamaktadir.
+
 	C dilinde Boolean veri tipine yer verilmemistir. Sifir degeri C dilinde yanlis kabul edilir.
 	Sifir disindaki tum degerler dogrudur.
 */
