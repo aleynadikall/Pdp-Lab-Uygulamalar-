@@ -1,0 +1,7 @@
+DÖNGÜLER
+
+-Bir program yazıldığı vakit bazı durumlarda bir satırın birden çok kez çalıştırılması düşünülebilir.
+Örneğin: Ekrana 1'den 100'e kadar sayılar yazılmak isteniyor. Bu durumda hepsini printf kullanarak yazmaya kalkışmak  100 satırı sadece bu işlem için doldurmak anlamına gelir.
+İşte bu durumlarda döngüler kullanılmalıdır.
+-Farklı yapılarda birçok döngü çeşidi bulunmaktadır. Java ve C dili hemen hemen aynı döngü yapılarını kullanır. Arada ufak farklılıklar bulunmaktadır.
+-Döngüler kontrol bakımından iki türlüdür. Önce test (pre-test) ve sonra test (pro-test) döngüleri, for ve while döngüleri önce test döngüleridir. Do while ise sonra test döngüsüne girer.
